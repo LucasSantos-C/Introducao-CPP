@@ -4,6 +4,6 @@ Um repositório com aulas e exercícios simples baseados no livro "Introdução 
 em cursos de programção em C e C++ do canal "Bro Code". Aqui serão contidos pequenos projetos em C e C++ como forma de estudo e prática
 de programação para baixo nível.
 
-Fontes de inspiração:
-**Bro Code;
-**Programming with Mosh.
+## Fontes de inspiração:
+* Bro Code
+* Programming with Mosh
